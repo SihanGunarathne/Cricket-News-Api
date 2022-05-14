@@ -1,7 +1,7 @@
 # Cricket-News-Api
 Get the latest T20 Cricket news by using this node.js Api
 
-#Deployed link in Cricket-News-Api in heroku
+# Deployed link in Cricket-News-Api in heroku
 https://cricketnewsapi.herokuapp.com/
 
 This link shows all T20 news in all blogs that define in index.js
